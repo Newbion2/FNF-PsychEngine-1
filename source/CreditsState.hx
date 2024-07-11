@@ -81,6 +81,10 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
+			['ice cream funk best credits ever'],
+			['BraylinIsCool', 'braylin', 'everything', 'https://youtube.com/@idklool121', '0xFF5157f6'],
+			['ice cream club best game ever', 'creambaby', 'what this mod is based on', 'https://www.roblox.com/games/3454695069/ice-cream-club-best-game-ever', '0x#FFAEC9'],
+			[''],
 			['Android Port'],
 			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@idklool121', 'FFFFFF'],
 			[''],
