@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ice-cream.png">
+<SubTexture name="down0000" x="1152" y="0" width="384" height="485" frameX="-223" frameY="-348" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="down0001" x="768" y="592" width="384" height="488" frameX="-223" frameY="-334" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="idle0000" x="384" y="592" width="384" height="505" frameX="-222" frameY="-313" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="idle0001" x="0" y="592" width="384" height="508" frameX="-222" frameY="-309" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="idle0002" x="768" y="0" width="384" height="513" frameX="-222" frameY="-304" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="left0000" x="0" y="1100" width="415" height="457" frameX="-51" frameY="-358" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="left0001" x="1536" y="0" width="388" height="466" frameX="-94" frameY="-352" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="right0000" x="415" y="1100" width="450" height="419" frameX="-328" frameY="-399" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="right0001" x="865" y="1100" width="438" height="418" frameX="-328" frameY="-399" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="up0000" x="0" y="0" width="384" height="592" frameX="-211" frameY="-229" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="up0001" x="384" y="0" width="384" height="571" frameX="-221" frameY="-250" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>
