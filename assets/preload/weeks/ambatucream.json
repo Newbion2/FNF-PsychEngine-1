@@ -1,0 +1,32 @@
+{
+	"storyName": "ice cream funk best mod ever",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "icecream",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"NomNomNom",
+			"icecream",
+			[
+				255,
+				155,
+				173
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ice cream funk best mod ever"
+}
